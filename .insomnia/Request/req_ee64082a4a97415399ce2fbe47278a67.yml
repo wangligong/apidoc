@@ -1,0 +1,21 @@
+_id: req_ee64082a4a97415399ce2fbe47278a67
+type: Request
+parentId: wrk_640d8c7847ec450b998806804382581a
+modified: 1645509219196
+created: 1645509208894
+url: 127.0.0.1:8119/quantitative-api/asset/panel/list/v1/industryPe
+name: My Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1645509208894
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
